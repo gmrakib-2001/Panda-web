@@ -20,3 +20,32 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color:orange ;
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-image:linear-gradient(to left, rgb(255, 211, 128) 0%, orange 100%);
+}
+.cat2{
+    background-color:blueviolet ;
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-image:linear-gradient(to left,#ff67a1 0%, #ff136f 100%);
+}
+.cat3{
+    background-color: rgb(33, 33, 253);
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-image:linear-gradient(to left,rgb(158, 158, 255) 0%, blue 100%);
+}
+.categories h1{
+    color: white;
+
+}
+.categories img{
+       width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
